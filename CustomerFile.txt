@@ -1,0 +1,8 @@
+0716112728,Rishindu,7,2
+0716945455,Kamal,7,1
+0784598623,Britni,9,0
+0789865898,Hasinika Sandamali,15,0
+0789856894,Kamal Liyanage,21,0
+0752356987,Aruni Samanmali,10,0
+0721568975,Sharada,45,0
+ 1001,sdfgh,2,0
